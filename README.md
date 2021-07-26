@@ -1,4 +1,4 @@
-# artigoprocessosestocasticos
+# Artigo Processos Estocásticos
 Artigo Processos Estocásticos
 
 Os dados do sinal de tensão foram retirados do seguinte endereço:
