@@ -8,3 +8,5 @@ https://www.kaggle.com/jacklewis0221/micro-pmu-october-1-dataset
 
 Tema do artigo:
 Análise Estatística do Desequilíbrio de Tensão
+
+O código está disponível para Jupyter Notebook.
