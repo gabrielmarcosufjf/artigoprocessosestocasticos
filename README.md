@@ -1,5 +1,5 @@
 # Artigo Processos Estocásticos
-Artigo Processos Estocásticos
+
 
 Os dados do sinal de tensão foram retirados do seguinte endereço:
 _LBNL_a6_bus1_2015-10-01
